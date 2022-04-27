@@ -9,7 +9,7 @@
   + Pinyinbdase now only describes the dictionary source glossaries
   + "Pinyinbase schema" will now be generally described as metapinyin
   + Pinyinbase can be (just-in-time) compiled with pbjkit into CEDICT files
-    + EXAMPLE: GitHub Actions using pbjkit to [build new PBDICT][pbdict] from Pimyinbase source 
+    + EXAMPLE: Using pbjkit to [build new PBDICT][pbdict] from Pimyinbase source with GitHub Actions 
   + pbjkit comprises more than one command line tool for simplicity
   + pbjkit works with `xargs` and other Linux commands
 
