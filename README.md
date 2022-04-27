@@ -1,6 +1,6 @@
 # pinyinpod
 
-> # **NOTE:** Please use [pbjkit][pbjkit]. This repo is archived, unmaintained and simply references an outdated project.
+> # **NOTE:** Please use [pbjkit][pbjkit]. This repo is archived and unmaintained. It simply references an outdated (and poorly-designed) project called *pinyinpod*
 
 
 # What's new in `pbjkit`
