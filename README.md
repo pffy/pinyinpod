@@ -12,6 +12,7 @@
   + pbjkit is designed and tested for backwards-compatibility with legacy CEDICT readers
   + pbjkit comprises more than one command line tool for simplicity
   + pbjkit works with `xargs` and other Linux commands
+  + pbjkit commands can be used anywhere -- not just in the repo root directory
 
 
 
