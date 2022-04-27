@@ -9,6 +9,7 @@
   + "Pinyinbase schema" will now be generally described as metapinyin
   + Pinyinbase can be (just-in-time) compiled with pbjkit into CEDICT files
     + EXAMPLE: Using pbjkit to [build new PBDICT][pbdict] from Pimyinbase source with GitHub Actions 
+  + pbjkit is designed and tested for backwards-compatibility with legacy CEDICT readers
   + pbjkit comprises more than one command line tool for simplicity
   + pbjkit works with `xargs` and other Linux commands
 
