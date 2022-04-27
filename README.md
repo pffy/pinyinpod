@@ -2,8 +2,7 @@
 
 > # **NOTE:** Please use [pbjkit][pbjkit]. This repo is archived and unmaintained. It simply references an outdated (and poorly-designed) project called *pinyinpod*
 
-
-# What's new in `pbjkit`
+# What's new and better in `pbjkit`
 
   + [Pinyinbase][pb] and pbjkit are two independent projects now
   + Pinyinbdase now only describes the dictionary source glossaries
